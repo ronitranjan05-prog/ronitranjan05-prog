@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ronit Ranjan! 👋
 
-<!--
-**ronitranjan05-prog/ronitranjan05-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-Year BCA Student** at Lovely Professional University, India.
 
-Here are some ideas to get you started:
+I'm a beginner programmer exploring the world of software development and building my programming fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Currently Learning
+- C Programming
+
+### 🌱 What's Next?
+- C++
+- Python
+
+### 🎯 About Me
+- 💡 Interested in programming and technology.
+- 🚀 Focused on learning, improving, and growing as a developer.
+
+---
+
+*"Learning today, building tomorrow."*
